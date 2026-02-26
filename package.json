@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://pradeepar27.github.io/Portfolio",
+   "homepage": "https://pradeepaR27.github.io/Portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
